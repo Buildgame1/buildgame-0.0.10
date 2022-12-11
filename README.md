@@ -1,5 +1,7 @@
 # Buildgame 0.0.10 / Christmas Update
 
+TO PLAY BUILDGAME OPEN "bg.exe"
+
 Buildgame 0.0.10 is the latest major release of the game being released on December 1st 2022, featuring additions such as:
 - Time changing from day to night.
 - Characters wearing Christmas hats until December 26th.
